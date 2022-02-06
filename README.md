@@ -48,11 +48,11 @@
 <p width="100%" align="center">
   <a align="left" href="https://github.com/Abir-K/Emotionotes_MERN" title="Emotionotes"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abir-K&repo=Emotionotes_MERN&theme=gotham"></a>
    <a align="left" href="https://github.com/Abir-K/Digital-Notebook" title="Digital NoteBook"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abir-K&repo=Digital-Notebook&theme=gotham"></a>
-  <a align="right" href="https://github.com/Abir-K/Medicine-Shop-Management-System" title="Medicine Shop Management"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abir-K&repo=Medicine-Shop-Management-System&theme=gotham"></a>
 </p>
 <br><br>
 <p width="100%" align="center">
   <a align="left" href="https://github.com/Abir-K/Sample-Project-WebTech" title="Travel & Tourism Web Application"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abir-K&repo=Sample-Project-WebTech&theme=gotham"></a>
+  <a align="right" href="https://github.com/Abir-K/Medicine-Shop-Management-System" title="Medicine Shop Management"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abir-K&repo=Medicine-Shop-Management-System&theme=gotham"></a>
 </p>
 <br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
