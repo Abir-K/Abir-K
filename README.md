@@ -18,9 +18,9 @@
   <br>
   🔬 I’m currently working on JavaScript
   <br>
-  📚 I’m currently learning Deep Learning Concept on Web Developments
+  📚 I’m also currently learning Deep Learning Concept on Web Developments
   <br>
-  📫 How to reach me: <a href="mailto: abirbeatz@gmail.com">abirbeatz@gmail.com</a>
+  📫 For reaching me: <a href="mailto: abirbeatz@gmail.com">abirbeatz@gmail.com</a>
 </p>
 
 <hr>
