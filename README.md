@@ -20,7 +20,7 @@
   <br>
   📚 I’m also currently learning Deep Learning Concept on Web Developments
   <br>
-  📫 For reaching me: <a href="mailto: abirbeatz@gmail.com">abirbeatz@gmail.com</a>
+  📫 Available on: <a href="mailto: kader.devops@gmail.com">kader.devops@gmail.com</a>
 </p>
 
 <hr>
