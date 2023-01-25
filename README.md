@@ -14,9 +14,9 @@
   <br>
   🎓 I graduated from American International University-Bangladesh Computer Science & Engineering Department
   <br>
-  💻 I love writing code and learn anythings about it.
+  💻 I love writing code and learn anythings new about it.
   <br>
-  🔬 I’m currently working on JavaScript
+  🔬 I’m currently practicing on DevOps Culture
   <br>
   📚 I’m also currently learning Deep Learning Concept on Web Developments
   <br>
