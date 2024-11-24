@@ -3,23 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abir-k&label=Profile%20views&color=0e75b6&style=flat" alt="abir-k" /> </p>
 
-- 🔭 I’m currently working on **Developing Infrastructure-as-Code Solutions for Enterprise Systems**
+- 🔭 I’m currently working on - **Developing Infrastructure-as-Code Solutions for Enterprise Systems**
 
-- 🌱 I’m currently learning **DevOps Culture...**
+- 🌱 I’m currently learning - **DevOps Culture...**
 
-- 👯 I’m looking to collaborate on **Cloud-native solutions and scalable infrastructure designs**
+- 👯 I’m looking to collaborate on - **Cloud-native solutions and scalable infrastructure designs**
 
-- 🤝 I’m looking for help with **Best practices for implementing secure and efficient DevOps strategies**
+- 🤝 I’m looking for help with - **Best practices for implementing secure and efficient DevOps strategies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abir-K?tab=repositories](https://github.com/Abir-K?tab=repositories)
+- 👨‍💻 All of my projects are available at - [https://github.com/Abir-K?tab=repositories](https://github.com/Abir-K?tab=repositories)
 
-- 💬 Ask me about **Ansible, Docker, Terraform, Jenkins, ArgoCD, Kubernetes**
+- 💬 Ask me about - **Ansible, Docker, Terraform, Jenkins, ArgoCD, Kubernetes**
 
-- 📫 How to reach me **kader.devops@gmail.com**
+- 📫 How to reach me - **kader.devops@gmail.com**
 
-- 📄 Know about my experiences [<Resume Added Later>](<Resume Added Later>)
+- 📄 Know about my experiences - [<Resume Added Later>](<Resume Added Later>)
 
-- ⚡ Fun fact **I talk to servers more than humans, but they don’t mind—they never complain!**
+- ⚡ Fun fact - **I talk to servers more than humans, but they don’t mind—they never complain!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
